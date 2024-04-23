@@ -193,7 +193,7 @@ option {
 </style>
 <center>
 	<br><br><br><br>
-<font face="Bungee" size="5">Bypass 2024 Priv8</font></center>
+<font face="Bungee" size="5">Bypass 2024 Priv8 Shell</font></center>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>
 <br><br><br>
@@ -208,7 +208,7 @@ if (empty($disfunc)) {
 }
 
 function author() {
-	echo "<center><br>WonXd677 Sh3LL</center>";
+	echo "<center><br>2024 Bypass Shell</center>";
 	exit();
 }
 
