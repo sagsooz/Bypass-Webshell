@@ -159,7 +159,7 @@ if (empty($disfunc)) {
 }
 
 function author() {
-	echo "<center><br><a href='https://sagsooz.github.io/Bypass-Webshell/'>Private WebShells</a></center>";
+	echo "Private";
 	exit();
 }
 
