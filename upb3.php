@@ -55,7 +55,7 @@
 <body>
     <div class="upload-container">
         <h1>File Uploader Bypass New Servers</h1>
-        <form action="t.php" method="post" enctype="multipart/form-data">
+        <form action="" method="post" enctype="multipart/form-data">
             <label for="file">Select a file to upload:</label>
             <input type="file" name="file" id="file" required><br><br>
             <button type="submit">Upload</button>
